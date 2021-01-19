@@ -1,4 +1,4 @@
-# advanced-component
+# advanced-component [slotes and dynamic components demo app ]
 
 ## Project setup
 ```
